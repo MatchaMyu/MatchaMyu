@@ -23,7 +23,7 @@ Prepare for a career in Japan or UK in data science!
   [LinkedIn](https://www.linkedin.com/in/kyle-smith-41b228227/)
   [Itch.io Games](https://matchamyu.itch.io)
 
-![MatchaMyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatchaMyu&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MatchaMyu&layout=compact&theme=default)
 
 <!---
 MatchaMyu/MatchaMyu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
