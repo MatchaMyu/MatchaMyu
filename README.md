@@ -1,9 +1,29 @@
 - 👋 Hi, I’m @MatchaMyu
-- 👀 I’m interested in a lot of things!
-- 🧰 Tools I Use: Python | SQL | Jupyter Notebooks 
-- 🌱 I’m currently learning python, C++, Java, and other things that aren't programming languages.
-- 📫 How to reach me: Reach me: [LinkedIn](https://www.linkedin.com/in/kyle-smith-41b228227/) | [Itch.io Games](https://matchamyu.itch.io)
 
+- 👀 I’m interested in:
+  a lot of things!
+  I’m a data science student and indie game designer focused on AI, offline tools, and visual novels.
+  I enjoy building Python projects that blend technology and creativity.
+
+- 🧰 Tools I Use and Learn:
+  Python
+  SQL
+  Jupyter Notebooks
+  Java
+  GameMaker Studio 2
+
+- 🌱 Learning Goals:
+Deepen Python & SQL integration
+Create a portfolio-ready GitHub Pages site
+Train a GPT model on my own fiction
+Prepare for a career in Japan or UK in data science!
+
+  
+- 📫 How to reach me:
+  [LinkedIn](https://www.linkedin.com/in/kyle-smith-41b228227/)
+  [Itch.io Games](https://matchamyu.itch.io)
+
+![MatchaMyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatchaMyu&show_icons=true&theme=default)
 
 <!---
 MatchaMyu/MatchaMyu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
