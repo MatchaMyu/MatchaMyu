@@ -1,22 +1,21 @@
 - 👋 Hi, I’m @MatchaMyu
 
-- 👀 I’m interested in:
-  a lot of things!
-  I’m a data science student and indie game designer focused on AI, offline tools, and visual novels.
-  I enjoy building Python projects that blend technology and creativity.
+🎓 I’m a data science student and indie game designer focused on:
+- 🧠 AI development
+- 🌐 Offline tools
+- 📚 Story creation, Visual Novels
+- 🎮 Video Game Design
 
-- 🧰 Tools I Use and Learn:
-  Python
-  SQL
-  Jupyter Notebooks
-  Java
-  GameMaker Studio 2
+## 🧰 Tools I Use & Learn
+- Python • SQL (MySQL & SQLite) • Jupyter Notebooks  
+- Java • GameMaker Studio 2  
+- Git • Excel-to-SQL workflows
 
-- 🌱 Learning Goals:
-Deepen Python & SQL integration
-Create a portfolio-ready GitHub Pages site
-Train a GPT model on my own fiction
-Prepare for a career in Japan or UK in data science!
+## 🌱 Current Learning Goals
+- Deepen Python & SQL integration  
+- Create a portfolio-ready GitHub Pages site  
+- Train a GPT model on my own fiction  
+- Prepare for a career in Japan or the UK in data science  
 
   
 - 📫 How to reach me:
