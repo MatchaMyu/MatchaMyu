@@ -2,7 +2,7 @@
 
 🎓 I’m a data science student and indie game designer focused on:
 - 🧠 AI development
-- 🌐 Offline tools
+- 💊 Healthcare data 
 - 📚 Story creation, Visual Novels
 - 🎮 Video Game Design
 
@@ -15,7 +15,7 @@
 - Deepen Python & SQL integration  
 - Create a portfolio-ready GitHub Pages site  
 - Train a GPT model on my own fiction  
-- Prepare for a career in Japan or the UK in data science  
+- Prepare for a career either in AI, healthcare, or both. 
 
   
 - 📫 How to reach me:
