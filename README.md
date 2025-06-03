@@ -1,24 +1,25 @@
-- 👋 Hi, I’m @MatchaMyu
+- Hi, I’m @MatchaMyu
 
-🎓 I’m a data science student and indie game designer focused on:
-- 🧠 AI development
-- 💊 Healthcare data 
-- 📚 Story creation, Visual Novels
-- 🎮 Video Game Design
+## About me:
+I’m a data science student and indie game designer focused on various things including
+- AI development
+- Healthcare data 
+- Story creation, Visual Novels
+- Video Game Design
 
-## 🧰 Tools I Use & Learn
+## Tools I Use & Learn
 - Python • SQL (MySQL & SQLite) • Jupyter Notebooks  
-- Java • GameMaker Studio 2  
+- Java • GameMaker Studio 2 * RenPy
 - Git • Excel-to-SQL workflows
 
-## 🌱 Current Learning Goals
+## Current Learning Goals
 - Deepen Python & SQL integration  
 - Create a portfolio-ready GitHub Pages site  
 - Train a GPT model on my own fiction  
 - Prepare for a career either in AI, healthcare, or both. 
 
   
-- 📫 How to reach me:
+- How to reach me:
   [LinkedIn](https://www.linkedin.com/in/kyle-smith-41b228227/)
   [Itch.io Games](https://matchamyu.itch.io)
 
