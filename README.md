@@ -23,8 +23,6 @@ I’m a data science student and indie game designer focused on various things i
   [LinkedIn](https://www.linkedin.com/in/kyle-smith-41b228227/)
   [Itch.io Games](https://matchamyu.itch.io)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MatchaMyu&layout=compact&theme=default)
-
 <!---
 MatchaMyu/MatchaMyu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
